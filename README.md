@@ -74,7 +74,7 @@ Random Forests outperformed Classification Trees in predicting Pokemon types, ac
 - `README.md`: Project overview and instructions.
 
 ## Installation and Usage
-1. Clone the repository: `git clone https://github.com/yourusername/pokemon-type-prediction.git`
+1. Clone the repository: `git clone https://github.com/GudiDheeraj/Pokemon-classification-using-ML.git`
 2. Navigate to the project directory: `cd pokemon-type-prediction`
 3. Install the required packages: `pip install -r requirements.txt`
 4. Run the scripts in the `scripts/` directory for data cleaning, EDA, and modeling.
